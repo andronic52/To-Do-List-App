@@ -6,7 +6,7 @@ Open Visual Studio Code: If you don't have Visual Studio Code installed, you can
 
 Paste the code: Open Visual Studio Code and create a new html file like index.html. Paste the copied code into the new file.
 
-Repeat the process made before but now with the css code, the file must end with .css instead of .html.
+Repeat the process made before but now with the css code, the file must end with .css instead of .html and again with the js file make sure it ends on .js.
 
 Download the Images file, then go to visual studio code where you have the other 2 files and alocate it there.
 
